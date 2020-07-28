@@ -8,7 +8,7 @@ I take extreme pride and ownership in the work that I do and over the past decad
 
 My passion is in connecting the dots, using new, existing, or creating integrations that bridge the gap. Testing and then making changes, Continually learning and making improvements.
 
-## Find me around the internet: 
+#### Find me around the internet: 
 - On the <a href="https://github.com/adampatterson">Web</a>
 - Social on <a href="https://twitter.com/adampatterson">Twitter</a>, <a href="https://www.instagram.com/adamapatterson/">Instagram</a>, and <a href="https://www.linkedin.com/in/adampatterson/">LinkedIn</a>
 
