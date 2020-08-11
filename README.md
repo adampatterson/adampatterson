@@ -11,6 +11,7 @@ My passion is in connecting the dots, using new, existing, or creating integrati
 #### Find me around the internet: 
 - On the <a href="https://github.com/adampatterson">Web</a>
 - Social on <a href="https://twitter.com/adampatterson">Twitter</a>, <a href="https://www.instagram.com/adamapatterson/">Instagram</a>, and <a href="https://www.linkedin.com/in/adampatterson/">LinkedIn</a>
+- I also make things on <a href="https://www.youtube.com/channel/UCrtiwFYTJ98AGoD6UUZIwyA">YouTube</a>!
 
 <!--
 **adampatterson/adampatterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
