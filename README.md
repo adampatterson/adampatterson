@@ -9,7 +9,7 @@ I take extreme pride and ownership in the work that I do and over the past decad
 My passion is in connecting the dots, using new, existing, or creating integrations that bridge the gap. Testing and then making changes, Continually learning and making improvements.
 
 #### Find me around the internet: 
-- On the <a href="https://github.com/adampatterson">Web</a>
+- On the <a href="https://www.adampatterson.ca">Web</a>
 - Social on <a href="https://twitter.com/adampatterson">Twitter</a>, <a href="https://www.instagram.com/adamapatterson/">Instagram</a>, and <a href="https://www.linkedin.com/in/adampatterson/">LinkedIn</a>
 - I also make things on <a href="https://www.youtube.com/channel/UCrtiwFYTJ98AGoD6UUZIwyA">YouTube</a>!
 
